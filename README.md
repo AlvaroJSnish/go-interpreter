@@ -1,8 +1,10 @@
 # go-interpreter
 
-Creating a simple interpreter for the Go programming language.
+Creating a simple interpreter in Go.
 
 Book: [Writing An Interpreter In Go](https://interpreterbook.com/)
+
+For the Rust version, see [here](https://github.com/AlvaroJSnish/rust-interpreter).
 
 ## Progress
 
